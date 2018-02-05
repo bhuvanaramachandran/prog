@@ -10,7 +10,6 @@ printf("\n %s%d",a,n);
 for(i=1;i<=n;i++)
 {
 	printf("%s",a);
-	// your code goes her
 }
 return 0;
 }
